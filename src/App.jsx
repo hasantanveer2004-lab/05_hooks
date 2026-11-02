@@ -49,7 +49,5 @@ function App() {
     <p>footer: {counter}</p>
   </div>
   )
-
 }
-
 export default App
